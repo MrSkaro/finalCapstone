@@ -1,0 +1,31 @@
+Total registered users:         5
+
+User:                           admin
+Assigned tasks:                 1
+Percentage of total tasks:      25.0%
+Assigned tasks complete %:      0.0%
+Assigned tasks incomplete %:    100.0%
+Assigned tasks overdue %:       100.0%
+
+User:                           new1
+Assigned tasks:                 0
+Percentage of total tasks:      0%
+
+User:                           user2
+Assigned tasks:                 1
+Percentage of total tasks:      25.0%
+Assigned tasks complete %:      0.0%
+Assigned tasks incomplete %:    100.0%
+Assigned tasks overdue %:       100.0%
+
+User:                           user3
+Assigned tasks:                 2
+Percentage of total tasks:      50.0%
+Assigned tasks complete %:      0.0%
+Assigned tasks incomplete %:    100.0%
+Assigned tasks overdue %:       50.0%
+
+User:                           user4
+Assigned tasks:                 0
+Percentage of total tasks:      0%
+
